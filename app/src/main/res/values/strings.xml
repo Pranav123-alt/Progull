@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Progull</string>
+
+    <string-array name="itemselect">
+        <item>Class</item>
+        <item>Repeater/Dropper</item>
+        <item>12</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+    </string-array>
+    <string name="hint_class">
+        <item>Class</item>
+    </string>
+
+</resources>

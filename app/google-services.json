@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909280624979",
+    "firebase_url": "https://progull-default-rtdb.firebaseio.com",
+    "project_id": "progull",
+    "storage_bucket": "progull.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909280624979:android:7442e485d6ff71b07e61a6",
+        "android_client_info": {
+          "package_name": "com.example.progull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909280624979-sq9v75d07vjb72hust0jjein05f8u0ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.progull",
+            "certificate_hash": "1b4e4b2f5e08259cf144856afde59a3db5c058b2"
+          }
+        },
+        {
+          "client_id": "909280624979-5s19b9b5kearuesc0f5lg6g6jmrblrnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJpVgFws9CYDw20fXPhQynnIzJuwP2mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909280624979-5s19b9b5kearuesc0f5lg6g6jmrblrnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
